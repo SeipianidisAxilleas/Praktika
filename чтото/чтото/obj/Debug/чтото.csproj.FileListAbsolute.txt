@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\чтото\чтото\bin\Debug\чтото.exe.config
+C:\Users\student\Desktop\чтото\чтото\bin\Debug\чтото.exe
+C:\Users\student\Desktop\чтото\чтото\bin\Debug\чтото.pdb
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form1.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Properties.Resources.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.csproj.GenerateResource.cache
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.exe
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.pdb
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form2.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form3.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form4.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form5.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form6.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form7.resources
+C:\Users\student\Desktop\чтото\чтото\obj\Debug\чтото.Form8.resources
